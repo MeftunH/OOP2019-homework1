@@ -1,0 +1,18 @@
+1 Kişi AA aldı.
+%5.555555
+1 Kişi BA aldı.
+%5.555555
+1 Kişi BB aldı.
+%5.555555
+2 Kişi CB aldı.
+%11.11111
+4 Kişi CC aldı.
+%22.22222
+3 Kişi DC aldı.
+%16.66667
+1 Kişi DD aldı.
+%5.555555
+2 Kişi FD aldı.
+%11.11111
+3 Kişi FF Aldı. 
+%16.66667
